@@ -26,7 +26,7 @@ jobs:
       - name: Build
         run: npm run build
       - name: Gen imgs
-        run: rm -rf public/img/* && cp -r ./img/ public/img/
+        run: rm -rf public/img && cp -r ./img/ public/
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
