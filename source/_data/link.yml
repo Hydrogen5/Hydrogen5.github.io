@@ -1,0 +1,23 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: aiQG_
+      link: http://aiqg.vip
+      avatar: https://avatars3.githubusercontent.com/u/38655552?s=460&v=4
+      descr: hacked by aiQG_
+    2:
+      name: 神圣黑猫骑士团
+      link: https://xgsteins.fun/
+      avatar: https://avatars2.githubusercontent.com/u/33283328?s=460&v=4
+      descr: 现役冻鳗高手，前冻鳗社社长  
+    3:
+      name: RRR
+      link: http://120.79.211.91/
+      avatar: https://avatars0.githubusercontent.com/u/32336251?s=460&v=4
+      descr: 黑阔，孙笑川258
+    4:
+      name: Brethland
+      link: http://yuki.systems/
+      avatar: https://avatars2.githubusercontent.com/u/44054691?s=460&v=4
+      descr: 大萌神，事女孩子（迫真）
