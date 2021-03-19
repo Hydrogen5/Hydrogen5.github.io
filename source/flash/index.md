@@ -6,15 +6,20 @@ top_img: /img/ZoNqu8.jpg
 ---
 ### Focusing on 
 - 《DDIA》，走马观花看了几遍，现在想把reference也清一遍
-- 《现代编译原理》虎书感觉比龙书硬核一点
-- 《认知心理学》我以前对于神经网络的认知果然太偏颇了……所谓黑箱不过是连历史渊源都不清楚
-- `tierra` 宇宙、图灵机和进化论
 
 ### TODO
 
 - 继续JIT
 - 摸一下3ds的相关破解工作
 - 试着把主力编辑器从VSCode迁到Emacs上去
+
+#### 2021.3.19
+VSCode -> Spacemacs -> Doom Emacs
+感觉Doom是比spacemacs好用一点，现在几个不太舒服的地方
+1. hybrid模式没有spacemacs好用，按ESC很麻烦的啊啊啊啊
+2. 切window也没有spacemacs舒服，更不要提随便切到treemacs再切回来了
+3. Minor Mode没有，嗯……
+4. M-x果然没有<SPC> <SPC>那种施法感
 
 #### 2021.1.31
 复！ 活！
