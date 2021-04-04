@@ -13,6 +13,10 @@ top_img: /img/ZoNqu8.jpg
 - 摸一下3ds的相关破解工作
 - 试着把主力编辑器从VSCode迁到Emacs上去
 
+#### 2021.4.4
+写rust之后其实感觉有些能力退化了  
+要准确说的话就是搓复杂数据结构的勇气与毅力，仔细想应该是包管理工具的锅
+
 #### 2021.3.19
 VSCode -> Spacemacs -> Doom Emacs
 感觉Doom是比spacemacs好用一点，现在几个不太舒服的地方
